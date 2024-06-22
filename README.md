@@ -16,7 +16,7 @@ The project uses the following regression models to predict house prices:
 
 To run this project, you need to have Python installed. It's recommended to use a virtual environment. Follow the instructions below to set up the project.
 
-### Clone the Repository
+### Clone the Repository checkout the master bracnch
 
 ```sh
 git clone https://github.com/your-username/house-price-prediction.git
